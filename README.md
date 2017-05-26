@@ -26,3 +26,5 @@ Because sometimes it doesn't render well.
 [Part2: Suggested Profile](https://media.giphy.com/media/3og0IA08kl1UPuPoWI/giphy.gif)
 
 [Part3: Tchat](https://media.giphy.com/media/3og0IIXN5Ta4eU45q0/giphy.gif)
+
+Have a nice day
