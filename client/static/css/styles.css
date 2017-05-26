@@ -1,0 +1,164 @@
+
+.fill {
+  position: absolute;
+  top: 0px;
+  bottom: 100px;
+  left: 0px;
+  right: 0px;
+}
+
+.container > .row {
+    margin-left: inherit;
+    margin-right: inherit;
+    max-width: 960px;
+}
+
+.header {
+    color: #ee6e73;
+    font-weight: 300;
+}
+
+.btn {
+  background-color: #ee6e73;
+}
+
+.btn:hover, .btn-large:hover {
+    background-color: #ef5350;
+}
+
+.btn:focus, .btn-large:focus, .btn-floating:focus {
+    background-color: #f44336;
+}
+
+.inline {
+  display: inline;
+  width: 100%;
+}
+/*
+.btn-right {
+  position: absolute;
+  right: 0px;
+}
+*/
+.profile-image {
+  height: 150px;
+  width: 150px;
+}
+
+.materialboxed {
+  width: 100%;
+  margin-bottom: 20px;
+}
+
+.materialboxed.private {
+  position: absolute;
+  top: -30px;
+  width: 120px;
+  height: 80px;
+}
+
+.marg {
+  margin: 15px;
+}
+.card {
+}
+
+.card-image img{
+  width: 100%;
+  height: 170px;
+}
+
+.btn-floating.halfway-fab.like{
+  right: 125px;
+}
+
+.btn-floating.halfway-fab.score{
+  right: 75px;
+}
+
+.btn-floating.halfway-fab.engage{
+  right: 175px;
+}
+
+.relative {
+  position: relative;
+}
+.btn-floating.halfway-fab.score .relative p {
+  position: absolute;
+  top: -17px;
+  left: 14px;
+  font-weight: bold;
+  font-size: 18px;s
+}
+
+.divider{
+  margin-bottom: 20px;
+}
+
+.offset-s1.pad-form {
+  padding: 0px 30px 30px 30px;
+}
+
+[type="radio"]:not(:checked)+label, [type="radio"]:checked+label {
+    margin-top: 25px;
+    margin-bottom: 50px;
+}
+.btn-floating.halfway-fab.delete{
+  right: -22px;
+  top: -44px;
+}
+
+.btn-floating.halfway-fab.report{
+  right: -22px;
+  top: 0px;
+}
+
+.form-upload {
+  position: absolute;
+  bottom: 30px;
+  right: 20px;
+}
+
+.btn-img-save{
+}
+
+.hidden {
+  display: none;
+}
+
+.ultra-big {
+  font-weight: 900;
+  font-size: 200px;
+}
+
+.noUi-connect {
+  background: #ee6e73;
+}
+
+.bg {
+  color:  #ee6e73;
+}
+
+@media screen and (max-width: 680px) {
+  .offset-s1.pad-form {
+    padding: 10px;
+    padding-top: 50px;
+  }
+  .row .col.offset-s1 {
+      margin-left: inherit;s
+  }
+}
+
+.pad30 {
+  left: 30px;
+}
+
+.list-user {
+  height: 500px;
+}
+.rose {
+  margin-left: 0px;
+  margin-top: 0px;
+  width: 40px;
+  text-align: center;
+}

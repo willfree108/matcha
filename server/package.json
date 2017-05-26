@@ -1,0 +1,41 @@
+{
+  "name": "server",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "npm-run-all --parallel watch db:start",
+    "watch": "nodemon app.js",
+    "clean": "rm -rf data && mkdir data",
+    "db:start": "mongod --dbpath data --port 3030"
+  },
+  "dependencies": {
+    "bcrypt-nodejs": "0.0.3",
+    "body-parser": "~1.16.0",
+    "cookie-parser": "~1.4.3",
+    "debug": "~2.6.0",
+    "errorhandler": "^1.5.0",
+    "express": "~4.14.1",
+    "express-jwt": "^5.1.0",
+    "express-ws": "^3.0.0",
+    "geoip-lite": "^1.2.0",
+    "geoip2": "^1.0.5",
+    "ip": "^1.1.5",
+    "jade": "~1.11.0",
+    "jsonwebtoken": "^7.3.0",
+    "lodash": "^4.17.4",
+    "moment": "^2.18.1",
+    "mongodb": "^2.2.25",
+    "morgan": "~1.7.0",
+    "multer": "^1.3.0",
+    "mv": "^2.1.1",
+    "node-gyp": "^3.6.0",
+    "nodemailer": "^4.0.1",
+    "nodemon": "^1.11.0",
+    "npm-run-all": "~4.0.2",
+    "path": "^0.12.7",
+    "randomstring": "^1.1.5",
+    "restc": "0.0.6",
+    "serve-favicon": "~2.3.2",
+    "socket.io": "^1.7.3"
+  }
+}
