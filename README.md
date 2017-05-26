@@ -27,4 +27,4 @@ Because sometimes it doesn't render well.
 
 [Part3: Tchat](https://media.giphy.com/media/3og0IIXN5Ta4eU45q0/giphy.gif)
 
-Have a nice day
+Have a nice day.
