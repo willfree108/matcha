@@ -22,5 +22,7 @@ Authentificate with a JWT.
 Because sometimes it doesn't render well.
 
 [Part1: Sign UP](https://media.giphy.com/media/3og0IvHpwHQbrCA4GA/giphy.gif)
+
 [Part2: Suggested Profile](https://media.giphy.com/media/3og0IA08kl1UPuPoWI/giphy.gif)
+
 [Part3: Tchat](https://media.giphy.com/media/3og0IIXN5Ta4eU45q0/giphy.gif)
