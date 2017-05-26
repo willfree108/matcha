@@ -1,4 +1,4 @@
-# matcha
+# Welcome to Matcha
 A 42 project, it's a tinder-like web application.
 
 # Front
